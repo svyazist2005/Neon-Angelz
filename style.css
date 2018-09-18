@@ -27,9 +27,9 @@ html{
   opacity: 0.8;
 }
 
-.button-url{
+input{
   display: flex;
-  padding: 15px 30px;
+  padding: 10px 30px 10px 50px;
   color:#0581A4;
   text-decoration:none;
   text-transform: uppercase;
